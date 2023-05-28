@@ -1,8 +1,6 @@
-//console.log('test');
-
-const placesList = ['Paris','Rome','London','Istanbul','Melbourne','Cairo','Rio','Islamabad'];
-const namesList = ['Bob','Jim','Jeff','John','Tom','Alex','David'];
-const verbsList = ['did nothing','went swimming','watched a football match','had dinner'];
+const placesList = ['Paris','Dubai','Moscow','Istanbul','Melbourne','Cairo','Rio','Helsinki','Hong Kong','Singapore','Los Angeles'];
+const namesList = ['Ronaldo', 'Messi', 'Jeff Bezos', 'Imran Khan', 'LeBron James', 'the Rock', 'Ryan Renolds', 'Donald Trump'];
+const verbsList = ['did nothing','went swimming','watched a football match','had dinner', 'watched a movie', 'went sightseeing'];
 
 function randomElement(arr){
     // returns random element in array
